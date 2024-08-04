@@ -1,4 +1,12 @@
-﻿Console.WriteLine("1sn number -> input :");
+// BU Master banchidagi Programm.cs faylida 3 dona hamma vazifalar jamlangan yani har bir vazifa uchun alohida shu repositoridan ranch ochilib song ularni har birini masterga  pr qilingan 
+// barcha vazifalar alohi alohida branchlarda jamlangan
+/*
+Basic.Ketma-ketlik bo'limi uchun 2-amaliy vazifa
+
+1. Kalkulyator:
+Foydalanuvchidan ikkita raqam va operatsiyani (+, -, *, /) so'raydigan kalkulyator dasturini yozing va keyin operatsiya natijasini chop eting.
+*/
+Console.WriteLine("1sn number -> input :");
 string number1Str = Console.ReadLine();
 int number1 = Convert.ToInt32(number1Str);
 
