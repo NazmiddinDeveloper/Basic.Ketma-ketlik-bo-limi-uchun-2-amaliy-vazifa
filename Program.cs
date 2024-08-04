@@ -52,3 +52,17 @@ for (int i = 0; i <= N; i++){
 }
 
 System.Console.WriteLine($" Output : {yigindi}");
+/*
+3.  Paritet tekshiruvi:
+Foydalanuvchi kiritgan raqamning juft yoki toq ekanligini aniqlaydigan va shunga mos ravishda xabarni chiqaradigan dastur tuzing.
+*/
+Console.Write(" Input = ");
+string nStr = Console.ReadLine();
+int N = Convert.ToInt32(nStr);
+
+if (N%2 == 0){
+    Console.WriteLine("Output = \"JUFT\" ");
+}else{
+    Console.WriteLine("Output = \"TOQ\" ");
+}
+

@@ -1,0 +1,15 @@
+C:\Users\nazmi\Рабочий стол\Basic.Ketma-ketlik-bo-limi-uchun-2-amaliy-vazifa\bin\Debug\net8.0\Basic.Ketma-ketlik-bo-limi-uchun-2-amaliy-vazifa.exe
+C:\Users\nazmi\Рабочий стол\Basic.Ketma-ketlik-bo-limi-uchun-2-amaliy-vazifa\bin\Debug\net8.0\Basic.Ketma-ketlik-bo-limi-uchun-2-amaliy-vazifa.deps.json
+C:\Users\nazmi\Рабочий стол\Basic.Ketma-ketlik-bo-limi-uchun-2-amaliy-vazifa\bin\Debug\net8.0\Basic.Ketma-ketlik-bo-limi-uchun-2-amaliy-vazifa.runtimeconfig.json
+C:\Users\nazmi\Рабочий стол\Basic.Ketma-ketlik-bo-limi-uchun-2-amaliy-vazifa\bin\Debug\net8.0\Basic.Ketma-ketlik-bo-limi-uchun-2-amaliy-vazifa.dll
+C:\Users\nazmi\Рабочий стол\Basic.Ketma-ketlik-bo-limi-uchun-2-amaliy-vazifa\bin\Debug\net8.0\Basic.Ketma-ketlik-bo-limi-uchun-2-amaliy-vazifa.pdb
+C:\Users\nazmi\Рабочий стол\Basic.Ketma-ketlik-bo-limi-uchun-2-amaliy-vazifa\obj\Debug\net8.0\Basic.Ketma-ketlik-bo-limi-uchun-2-amaliy-vazifa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nazmi\Рабочий стол\Basic.Ketma-ketlik-bo-limi-uchun-2-amaliy-vazifa\obj\Debug\net8.0\Basic.Ketma-ketlik-bo-limi-uchun-2-amaliy-vazifa.AssemblyInfoInputs.cache
+C:\Users\nazmi\Рабочий стол\Basic.Ketma-ketlik-bo-limi-uchun-2-amaliy-vazifa\obj\Debug\net8.0\Basic.Ketma-ketlik-bo-limi-uchun-2-amaliy-vazifa.AssemblyInfo.cs
+C:\Users\nazmi\Рабочий стол\Basic.Ketma-ketlik-bo-limi-uchun-2-amaliy-vazifa\obj\Debug\net8.0\Basic.Ketma-ketlik-bo-limi-uchun-2-amaliy-vazifa.csproj.CoreCompileInputs.cache
+C:\Users\nazmi\Рабочий стол\Basic.Ketma-ketlik-bo-limi-uchun-2-amaliy-vazifa\obj\Debug\net8.0\Basic.Ketma-ketlik-bo-limi-uchun-2-amaliy-vazifa.sourcelink.json
+C:\Users\nazmi\Рабочий стол\Basic.Ketma-ketlik-bo-limi-uchun-2-amaliy-vazifa\obj\Debug\net8.0\Basic.Ketma-ketlik-bo-limi-uchun-2-amaliy-vazifa.dll
+C:\Users\nazmi\Рабочий стол\Basic.Ketma-ketlik-bo-limi-uchun-2-amaliy-vazifa\obj\Debug\net8.0\refint\Basic.Ketma-ketlik-bo-limi-uchun-2-amaliy-vazifa.dll
+C:\Users\nazmi\Рабочий стол\Basic.Ketma-ketlik-bo-limi-uchun-2-amaliy-vazifa\obj\Debug\net8.0\Basic.Ketma-ketlik-bo-limi-uchun-2-amaliy-vazifa.pdb
+C:\Users\nazmi\Рабочий стол\Basic.Ketma-ketlik-bo-limi-uchun-2-amaliy-vazifa\obj\Debug\net8.0\Basic.Ketma-ketlik-bo-limi-uchun-2-amaliy-vazifa.genruntimeconfig.cache
+C:\Users\nazmi\Рабочий стол\Basic.Ketma-ketlik-bo-limi-uchun-2-amaliy-vazifa\obj\Debug\net8.0\ref\Basic.Ketma-ketlik-bo-limi-uchun-2-amaliy-vazifa.dll
