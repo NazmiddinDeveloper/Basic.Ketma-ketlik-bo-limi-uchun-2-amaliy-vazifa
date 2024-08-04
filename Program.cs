@@ -1,4 +1,4 @@
-﻿Console.Write(" Input = ");
+Console.Write(" Input = ");
 string nStr = Console.ReadLine();
 int N = Convert.ToInt32(nStr);
 
