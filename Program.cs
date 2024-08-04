@@ -31,25 +31,24 @@ while (true)
             continue;
     }
     break;
+
+}
+/*
+2. Raqamlar qatorining yig‘indisini hisoblash:
+Foydalanuvchidan N musbat butun sonni so‘ragan, so‘ngra 1 dan N gacha bo‘lgan barcha sonlar yig‘indisini hisoblab, natijani ekranga chiqaradigan dastur tuzing.
+
+*/
+
+int N = 0;
+while (N <= 0){
+    System.Console.WriteLine(" Musbat son kiriting : ");
+    string nStr = Console.ReadLine();
+    N = Convert.ToInt32(nStr);
 }
 
-Console.WriteLine("2nd number -> input :");
-string number2Str = Console.ReadLine();
-int number2 = Convert.ToInt32(number2Str);
+int yigindi = 0;
+for (int i = 0; i <= N; i++){
+    yigindi += i;
+}
 
-switch (operatorStr)
-{
-    case "+":
-        Console.WriteLine($" output : {number1 + number2}");
-        break;
-    case "-":
-        Console.WriteLine($" output : {number1 - number2}");
-        break;
-    case "*":
-        Console.WriteLine($" output : {number1 * number2}");
-        break;
-    case "/":
-        Console.WriteLine($" output : {number1 / number2}");
-        break;
-}   
-
+System.Console.WriteLine($" Output : {yigindi}");
